@@ -6,9 +6,9 @@ color:
   saturation: 0.14558446151204407
   rhythmicContrast: 0.06701366230845451
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#FDFDFD'
+    - '#343537'
+    - '#999CA4'
+    - '#636B83'
+    - '#A7D8FE'
 name: Summer Holidays
